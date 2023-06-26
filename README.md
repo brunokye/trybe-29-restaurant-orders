@@ -12,7 +12,7 @@ Habilidades exercitadas:
 
 ## Projeto
 
-![Print do Projeto](https://i.imgur.com/ksjSAIE.png)
+![Print do Projeto](https://i.imgur.com/kCVYE57.png)
 
 ## Executar Localmente
 
